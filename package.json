@@ -1,0 +1,20 @@
+{
+  "name": "planning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "build": "marp",
+	  "watch": "marp -p"
+  },
+  "keywords": [],
+  "author": "JakeTrevor <Jacob.Trevor234@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marp-cli": "^3.2.1"
+  },
+  "marp": {
+    "inputDir": "./slides",
+    "output": "./out",
+  }
+}
