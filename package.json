@@ -15,6 +15,6 @@
   },
   "marp": {
     "inputDir": "./slides",
-    "output": "./out",
+    "output": "./out"
   }
 }
