@@ -15,3 +15,11 @@
 ## 29 Sept 2023
 
 * *2 hours* reading up on types 
+
+# 1st October 2023
+
+* 1 hr reading on types
+
+# 2nd OCtober 
+
+* 1 hr reading up on types.
