@@ -31,3 +31,10 @@
 # 24th october
 
 - 2 hrs finished basic evaluation & interpreter
+
+# 30th October
+
+- 1.5 hrs thinking/research on pointers and how to represent them.
+- 1 hr programming work more advanced evaluation working;
+  - insertion sort evaluation now works
+- checked out 'crafting interpreters' from the library.
