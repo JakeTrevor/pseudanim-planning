@@ -43,3 +43,4 @@
 
 - 30 mins planning JIT interpreter/visitor class.
 - 1hr implementing JIT interpreter/visitor class.
+- 1hr implementing JIT interpreter generator functions
