@@ -44,3 +44,19 @@
 - 30 mins planning JIT interpreter/visitor class.
 - 1hr implementing JIT interpreter/visitor class.
 - 1hr implementing JIT interpreter generator functions
+
+# 29th November
+
+- 2 hrs moving previous work to langium boilerplate project.
+
+# 10th December
+
+- 2 hrs work on web app
+
+# 11th December
+
+- 2 hrs work on web app
+
+# 19th December
+
+- 4 hrs continuing work to set-up web app
